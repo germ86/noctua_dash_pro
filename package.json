@@ -1,0 +1,26 @@
+{
+  "name": "noctua_dash_pro",
+  "version": "1.0.0",
+  "description": "Dashboard with Bootstrap5 and webpack",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack serve --mode development",
+    "test": "webpack serve --mode development --open",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/germ86/noctua_dashboard_pro.git"
+  },
+  "keywords": [
+    "Dashboard",
+    "KPI",
+    "Administration"
+  ],
+  "author": "Fabio Schmeil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/germ86/noctua_dashboard_pro/issues"
+  },
+  "homepage": "https://github.com/germ86/noctua_dashboard_pro#readme"
+}
